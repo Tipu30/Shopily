@@ -1,4 +1,7 @@
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# Glimpse of this project
+![image](https://github.com/Tipu30/Shopily/assets/92074859/8edfc7ec-87c5-437f-aaef-891b65a9fda5)
+
 
 ## Getting Started
 
