@@ -17,7 +17,7 @@ const Admin = async () => {
 
     const graphData = await getGraphData()
     return (
-        <div className="pt-8">
+        <div className="pt-7">
             <Container>
                 <Summary products={products}
                     orders={orders}
